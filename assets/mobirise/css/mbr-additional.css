@@ -1347,7 +1347,7 @@ pre {
   margin-bottom: 2rem;
 }
 .cid-quzzrRmTwH .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-quzzrRmTwH a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1369,6 +1369,9 @@ pre {
   color: #073b4c;
 }
 .cid-quzzrRmTwH .mbr-section-subtitle B {
+  color: #232323;
+}
+.cid-quzzrRmTwH .mbr-section-subtitle SPAN {
   color: #232323;
 }
 .cid-quzzMRrUWc {
